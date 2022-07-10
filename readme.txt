@@ -1,1 +1,1 @@
-This is b1 branch of test repo.
+This is test repo.
